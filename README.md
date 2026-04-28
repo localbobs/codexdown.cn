@@ -6,7 +6,7 @@
 - 适用检索：百度、谷歌、GitHub
 - 内容定位：Codex 客户端获取入口、安装说明、功能介绍、价格参考、常见问题
 
-![Codex客户端下载页面预览 - OpenAI Codex AI编程助手下载站](./preview.png)
+![Codex客户端下载页面预览 - OpenAI Codex AI编程助手下载站](https://gbres.dfcfw.com/Files/iimage/20260428/D998FD6D9E23D8610A3300F49F9370DF_w1771h918.png)
 
 ## Codex客户端下载说明
 
