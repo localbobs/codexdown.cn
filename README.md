@@ -1,8 +1,8 @@
 # Codex下载 | Codex客户端下载站 | OpenAI Codex AI编程助手获取与安装说明 (微软商店下载不了的可以用这个)
 
-`codexdown.cn` 是一个围绕 **Codex下载**、**Codex客户端**、**OpenAI Codex**、**AI编程助手下载** 整理的说明页面与静态站点仓库，适合搜索 `Codex下载`、`Codex客户端下载`、`Codex AI编程助手`、`OpenAI Codex download`、`Codex 安装教程` 的用户快速了解相关信息。
+`codexdown.cc` 是一个围绕 **Codex下载**、**Codex客户端**、**OpenAI Codex**、**AI编程助手下载** 整理的说明页面与静态站点仓库，适合搜索 `Codex下载`、`Codex客户端下载`、`Codex AI编程助手`、`OpenAI Codex download`、`Codex 安装教程` 的用户快速了解相关信息。
 
-- 访问地址：[https://codexdown.cn/](https://codexdown.cn/)
+- 访问地址：[https://codexdown.cc/](https://codexdown.cc/)
 - 适用检索：百度、谷歌、GitHub
 - 内容定位：Codex 客户端获取入口、安装说明、功能介绍、价格参考、常见问题
 
@@ -94,11 +94,11 @@ If users search for `Codex download` or `OpenAI Codex client` on GitHub, this RE
 
 ### 这个仓库的核心用途是什么？
 
-用于承载 `codexdown.cn` 的静态页面内容，并围绕 **Codex 客户端下载、安装说明、功能介绍和检索覆盖** 做内容组织。
+用于承载 `codexdown.cc` 的静态页面内容，并围绕 **Codex 客户端下载、安装说明、功能介绍和检索覆盖** 做内容组织。
 
 ## 相关链接
 
-- 项目主页：[https://codexdown.cn/](https://codexdown.cn/)
+- 项目主页：[https://codexdown.cc/](https://codexdown.cc/)
 - 站点地图：[sitemap.xml](./sitemap.xml)
 - 搜索引擎声明：[robots.txt](./robots.txt)
 
